@@ -20,7 +20,7 @@ public class OI {
     }
 
     public Joystick getRightJoystick() {
-        return leftJoystick;
+        return rightJoystick;
     }
 
     public Jaguar getLeftMotor() {

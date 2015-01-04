@@ -58,4 +58,8 @@ public class TestBed extends IterativeRobot {
     public void testPeriodic() {
         LiveWindow.run();
     }
+    
+    public void disabledInit() {
+        
+    }
 }
